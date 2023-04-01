@@ -1,0 +1,12 @@
+C:\Users\benst\source\repos\PowerCrisis\PowerCrisis\bin\Debug\PowerCrisis.dll
+C:\Users\benst\source\repos\PowerCrisis\PowerCrisis\bin\Debug\PowerCrisis.pdb
+C:\Users\benst\source\repos\PowerCrisis\PowerCrisis\bin\Debug\PowerCrisis.dll.manifest
+C:\Users\benst\source\repos\PowerCrisis\PowerCrisis\bin\Debug\PowerCrisis.vsto
+C:\Users\benst\source\repos\PowerCrisis\PowerCrisis\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
+C:\Users\benst\source\repos\PowerCrisis\PowerCrisis\obj\Debug\PowerCrisis.csproj.AssemblyReference.cache
+C:\Users\benst\source\repos\PowerCrisis\PowerCrisis\obj\Debug\PowerCrisis.Properties.Resources.resources
+C:\Users\benst\source\repos\PowerCrisis\PowerCrisis\obj\Debug\PowerCrisis.csproj.GenerateResource.cache
+C:\Users\benst\source\repos\PowerCrisis\PowerCrisis\obj\Debug\PowerCrisis.csproj.CoreCompileInputs.cache
+C:\Users\benst\source\repos\PowerCrisis\PowerCrisis\obj\Debug\PowerCrisis.csproj.CopyComplete
+C:\Users\benst\source\repos\PowerCrisis\PowerCrisis\obj\Debug\PowerCrisis.dll
+C:\Users\benst\source\repos\PowerCrisis\PowerCrisis\obj\Debug\PowerCrisis.pdb

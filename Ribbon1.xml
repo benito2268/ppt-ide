@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<customUI xmlns="http://schemas.microsoft.com/office/2009/07/customui" onLoad="Ribbon_Load">
+  <ribbon>
+    <tabs>
+		<tab idMso="TabAddIns">
+			<group id="FunnyGroup" label="funny">
+				<button id="compileButton" label="Compile Code"
+					 screentip="hehe" onAction="OnCompButton"
+					 supertip="compiles the whole project?"/>
+				<button id="runButton" label="Run Code"
+					 screentip="hehe" onAction="OnRunButton"
+					 supertip="runs the compiled program"/>
+			</group>
+		</tab>
+    </tabs>
+  </ribbon>
+</customUI>
+
